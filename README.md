@@ -74,7 +74,7 @@ DSGVO-freundlich, transparent, unter deiner Kontrolle.
 
 - 📱 **Android-App:** · [Direkt-APK](#WIP)
 - 🖥️ **Desktop-Dashboard (Windows):** [Download](#WIP)
-- 🔑 **Premium-Lizenz kaufen:** [zerotrustcam.app](#WIP)
+- 🔑 **Premium-Lizenz kaufen:** [WIP](#WIP)
 
 - ## ℹ️ Hinweise
 
